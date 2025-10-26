@@ -1,6 +1,6 @@
 # Assignment 
 
-A desktop responsive assessment.
+A desktop responsive assignment.
 
 ![Demo](./src/assets/AssessmentSS.png)
 
