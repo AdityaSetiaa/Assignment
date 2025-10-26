@@ -1,10 +1,10 @@
 # Assessment
 
-A responsive desktop.
+A desktop responsive assessment.
 
 ![Demo](./src/assets/AssessmentSS.png)
 
-[Live Demo]()
+[Live Demo](https://lunacal-intern-assignment.vercel.app/)
 
 ## ✨ Features
 - Responsive two-widget layout (for laptop screens)
